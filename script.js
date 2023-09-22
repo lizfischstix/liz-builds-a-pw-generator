@@ -29,7 +29,7 @@ if((howLong < 8)||(howLong > 128)) {
   var lowerCaseY = confirm("Do you want your password to contain lower case letters?")
   var numberY = confirm("Do you wannt your password to contain numbers?")
   var specialY = confirm("Do you want your password to contain special characters?");
-  console.log(howLong, upperCase, lowerCase, number, special);
+  
   if((upperCaseY === false)&&(lowerCaseY === false)&&(numberY === false)&&(specialY === false)) {
    alert("Please refresh the page and chose at least one option.");
 } 
@@ -50,8 +50,9 @@ if((howLong < 8)||(howLong > 128)) {
   superArray += special;
  }
   for(i=0; i<howLong; i++){
-    superArray[(Math.floor(math.random())*superArray.length))]
+    superArray[(Math.floor(math.random())*superArray.length)];
   }
+
   console.log(password);
   return password;
 }
