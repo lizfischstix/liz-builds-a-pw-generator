@@ -8,7 +8,7 @@
   * [License](#license)
 
   ## Installation: 
-  The deployed project can be opened at https://lizfischstix.github.io/Liz-builds-a-pw-generator/.  Once on the page, press generate password button and answer the questions that follow.
+  The deployed project can be opened at https://lizfischstix.github.io/Liz-builds-a-pw-generator/ .  Once on the page, press generate password button and answer the questions that follow.
   ![randomy generated password](image-2.png)
   ![promt to user](image-3.png)
   
