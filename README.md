@@ -1,12 +1,22 @@
-# liz-builds-a-pw-generator
+# Liz Builds a Password Generator
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ## Description: 
+  This project takes user input an runs it through  a  math function to produce a  randomly generated password that meets the user's specs.
+  ## Table of Contents: 
+  * [installation](#installation)
+  * [credits](#credits)
+  * [License](#license)
 
-## Description this password generator will help employees who work with sensitive data create a secure password.
-in working on this project I learned about for loops and math.random.  While my application is not yet perfected, I will cotinue to practice applying the tools I used to build it to increase my own understanding of JavaScript and its capabilities.
+  ## Installation: 
+  The deployed project can be opened at https://lizfischstix.github.io/Liz-builds-a-pw-generator/.  Once on the page, press generate password button and answer the questions that follow.
+  ![randomy generated password](image-2.png)
+  ![promt to user](image-3.png)
+  
+  
+  ## Credits: 
+  Built by Liz, with code proofreading help from ChatGPT.
 
-## Installation the deployed web app can be found at https://lizfischstix.github.io/Liz-builds-a-pw-generator/. to start the app, press "generate password" and follow the prompts.
-
-[password generator user input example](image.png)
-[password generator usr alert example](image-1.png)
-
-## license
-MIT license
+  ## Contact:
+  Get in touch on GitHub [@lizfischstix](https://github.com/lizfischstix)
+  ## License:
+    This project is licensed under the MIT license
